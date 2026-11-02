@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+.env
+tasks.json
+tasks.tmp
+__pycache__/
+venv/
